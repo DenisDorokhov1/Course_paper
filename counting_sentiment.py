@@ -30,7 +30,7 @@ PLUTCHIK_EMOTION_MAPPING = {
 
 
 try:
-    login(token=YOUR_HF_TOKEN)
+    login(token=MY_HF_TOKEN)
 except Exception as e:
     print(e)
 
