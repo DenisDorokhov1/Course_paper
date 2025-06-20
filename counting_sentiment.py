@@ -8,7 +8,7 @@ import numpy as np
 os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
 
 
-YOUR_HF_TOKEN = "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"
+MY_HF_TOKEN = ""
 
 INPUT_MOVIES_CSV = "TMDB_top_rated_movies_with_financials_by_id.csv"
 OUTPUT_MOVIES_SENTIMENT_CSV = "TMDB_movies_with_overview_sentiment.csv"
